@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.SolidBorder {
+	border-style:solid;
+	border-color: black;
+	border-width: 2px;
+	box-sizing: border-box;
+}
+

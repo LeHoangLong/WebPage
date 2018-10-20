@@ -1,0 +1,23 @@
+
+
+@charset "UTF-8";
+
+#home {
+	position:relative;
+	float:left;
+	margin-left:50px;
+	max-width:100px;]
+}
+
+#account{
+	position:relative;
+	float:right;
+	margin-right:50px;
+}
+
+#cart{
+	position:relative;
+	float:right;
+	margin-right:50px;
+}
+

@@ -1,0 +1,36 @@
+
+@charset "UTF-8";
+
+.CommonButtonColor {
+	background-color:#F121F1;
+}
+
+.CommonButtonSize {
+	display:table;
+	text-align:center;
+	width:200px;
+	height:50px;
+}
+
+.SmallButtonSize {
+	display:table;
+	text-align:center;
+	width:50px;
+	height:50px;
+}
+
+.SmallLongButtonSize {
+	display:table;
+	text-align:center;
+	width:200px;
+	height:50px;
+}
+
+.CenterButtonContent {
+	display:table-cell;
+	vertical-align:middle;
+}
+
+.WhiteButton {
+	background-color:#FFFFFF;
+}

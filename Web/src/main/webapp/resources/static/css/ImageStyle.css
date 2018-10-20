@@ -1,0 +1,35 @@
+
+@charset "UTF-8";
+
+.NormalImage {
+	width:200px;
+	height:200px;
+}
+
+.SmallImage {
+	width:50px;
+	height:50px;
+}
+
+.LargeImage {
+	width:500px;
+	height:500px;
+}
+
+ .ImageGallery {
+ 	float:right;
+ 	margin-right:10%;
+ }
+ 
+ .ImageRow {
+ 	float:none;
+ 	height:200px;
+ }
+ 
+ .ImageCaption {
+ 	margin-left:75px;
+ }
+ 
+ .ImageWithCaption {
+ 	float:left;
+ }
